@@ -1,2 +1,1 @@
-# audio-classification-ml
-Machine Learning project for speech-based disorder detection using acoustics and time-frequency features and SVM/CNN models with 85%+ accuracy.
+An end-to-end speech analysis system for gender classification and early detection of vocal disorders (Cyst, Polyp, Laryngitis) using advanced acoustic, MFCC and time-frequency features. Implemented using SVM and CNN models with performance up to 95% accuracy for healthcare-focused intelligent diagnosis.
